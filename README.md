@@ -16,9 +16,9 @@ Criar um aplicativo para consultar a API de Filmes e trazer os filmes enviados p
 
 ### **Essencial** ##
 * IDE Utilizada deve ser o Android Studio na versão mais atual
-* O sistema de build e gerenciamento de dependncias deve ser o Gradle
+* O sistema de build e gerenciamento de dependêcias deve ser o Gradle
 * Deve ser usada uma biblioteca para Mapeamento/Parser de JSON
-* Os guidelines Material Design
+* Os guidelines UX e UI devem ser do Material Design
 
 ### **Desejável** ###
 
