@@ -7,11 +7,11 @@ Criar um aplicativo para consultar a API de Filmes e trazer os filmes enviados p
 
 ### **O aplicativo deve contemplar** ###
 
-- __Uma lista de filmes__. Exemplo de chamada na API: `https://sky-selecao-teste.herokuapp.com/movies/list?page=0&size=3`
+- __Uma lista de filmes__. Exemplo de chamada na API: `https://desafio-android-pitang.herokuapp.com/movies/list?page=0&size=3`.
   * Paginação na tela de lista, com scroll infinito (incrementando o parâmetro `page`).
   * Cada filme deve exibir Nome do filme e Foto do filme.
-  * Ao clicar em um item da lista, deve levar ao detalhe do filme
-- __Detalhes de um filme__. Exemplo de chamada na API: `https://sky-selecao-teste.herokuapp.com/movies/detail/59e8ec97f36d280364369ca1`
+  * Ao clicar em um item da lista, deve levar ao detalhe do filme.
+- __Detalhes de um filme__. Exemplo de chamada na API: `https://desafio-android-pitang.herokuapp.com/movies/detail/59e8ec97f36d280364369ca1`.
   * O item de detalhe deve exibir Nome, Foto e Descrição do filme.
 
 ### **Essencial** ##
